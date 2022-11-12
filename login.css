@@ -1,0 +1,32 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background: #1c1717 !important;
+}
+
+.tela-login{
+  background: #fff;
+  height: 400px;
+  padding-top: 30px;
+  border-radius: 10px;
+  
+}
+
+.login{
+  margin-top: 88px  !important;
+}
+
+.tela-login1{
+  background: #df1616;
+  height: 400px;
+  padding-top: 30px;
+}
+
+.tela-login2{
+  background: #d7f207;
+  height: 400px;
+  padding-top: 30px;
+}
